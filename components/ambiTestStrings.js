@@ -1,4 +1,4 @@
-export const ambiStringsAndTranslations = [
+exports.ambiStringsAndTranslations = [
   [
     "Mangoes are my favorite fruit.",
     "Mangoes are my favourite fruit.",

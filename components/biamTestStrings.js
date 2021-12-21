@@ -1,4 +1,4 @@
-export const biamStringsAndTranslations = [
+exports.biamStringsAndTranslations = [
   [
     "We watched the footie match for a while.",
     "We watched the soccer match for a while.",
